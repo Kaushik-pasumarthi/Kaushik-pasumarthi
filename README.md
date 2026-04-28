@@ -10,5 +10,5 @@ RANK="LeetCode Knight ⚔️"
 
 # CURRENT DIRECTIVES
 echo "Researching: UDP-Net (All-weather image enhancement architecture)"
-echo "Building:    The Capybara (Microsoft Imagine Cup)"
+echo "Building:    The Capybara "
 echo "Focus:       Deep Learning & Competitive Programming"
