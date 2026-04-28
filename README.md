@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Kaushik Pasumarthi</h1>
-<h3 align="center">AI/ML Developer | LeetCode Knight ⚔️</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Kaushik%20Pasumarthi&fontSize=50&fontAlignY=35&animation=twinkling" />
+</div>
+
+<h3 align="center">
+  <a href="https://github.com/kaushik-pasumarthi">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=AI%2FML+Specialist+|+Class+of+2027;LeetCode+Knight+⚔️;GDGC+AI%2FML+Coordinator;Computer+Vision+Researcher" alt="Typing SVG" />
+  </a>
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sai-srinivasa-kaushik-pasumarthi-019504293/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -10,25 +17,18 @@
 
 ---
 
-### 👨🏻‍💻 About Me
+### 👨🏻‍💻 System Log
 
-- 🎓 AI/ML specialist (Class of 2027) based in Hyderabad.
-- 🚀 **Coordinator** for the AI/ML domain at [GDGC VNRVJIET](https://www.gdgcvnrvjiet.org/).
-- 🔭 Currently researching and building **UDP-Net** for all-weather image enhancement, alongside developing deep learning surveillance solutions for a **DRDO** project.
-- 🏆 Recently competed in the Microsoft Imagine Cup with project **The Capybara**.
-- 💡 Passionate about competitive programming and pushing the limits of computer vision using Python and PyTorch.
+```python
+class Kaushik:
+    def __init__(self):
+        self.role = "Coordinator @ GDGC VNRVJIET (AI/ML Domain)"
+        self.location = "Hyderabad, India"
+        self.rank = "LeetCode Knight ⚔️"
 
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikit,pandas,c,js,html,css,react,django,docker,git,mysql,sqlite,blender&theme=dark" alt="My Skills" />
-  </a>
-</p>
-
-### 📊 Stats & Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaushik-pasumarthi&show_icons=true&theme=radical&hide_border=true&layout=compact" alt="GitHub Stats" width="48%"/>
-  <img src="https://leetcard.jacoblin.cool/kaushik-pasumarthi?theme=radical&font=Inter&ext=activity" alt="LeetCode Stats" width="48%"/>
-</p>
+    def get_current_focus(self):
+        return {
+            "research": "UDP-Net (All-weather image enhancement)",
+            "projects": ["DRDO Surveillance Deep Learning", "The Capybara"],
+            "passion": "Competitive Programming & Computer Vision"
+        }
