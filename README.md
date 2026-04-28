@@ -1,19 +1,34 @@
 <h1 align="center">Hi 👋, I'm Kaushik Pasumarthi</h1>
-<h3 align="center">An Tech enthusiast from India</h3>
+<h3 align="center">AI/ML Developer | LeetCode Knight ⚔️</h3>
 
-- 🔭 I’m currently working on an **Machine Learning project involving llms**
-
-- 👯 Im working as [ai/ml volunteer at GDGC](https://www.gdgcvnrvjiet.org/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sai-srinivasa-kaushik-pasumarthi-019504293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sai-srinivasa-kaushik-pasumarthi-019504293/" height="30" width="40" /></a>
-<a href="https://instagram.com/kaushikpasumarthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaushikpasumarthi" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kaushik2006" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kaushik2006" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kaushik-pasumarthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaushik-pasumarthi" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sai-srinivasa-kaushik-pasumarthi-019504293/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.leetcode.com/kaushik-pasumarthi" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.codechef.com/users/kaushik2006" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/></a>
+  <a href="https://instagram.com/kaushikpasumarthi" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushik-pasumarthi&show_icons=true&locale=en&layout=compact" alt="kaushik-pasumarthi" /></p>
+### 👨🏻‍💻 About Me
+
+- 🎓 AI/ML specialist (Class of 2027) based in Hyderabad.
+- 🚀 **Coordinator** for the AI/ML domain at [GDGC VNRVJIET](https://www.gdgcvnrvjiet.org/).
+- 🔭 Currently researching and building **UDP-Net** for all-weather image enhancement, alongside developing deep learning surveillance solutions for a **DRDO** project.
+- 🏆 Recently competed in the Microsoft Imagine Cup with project **The Capybara**.
+- 💡 Passionate about competitive programming and pushing the limits of computer vision using Python and PyTorch.
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikit,pandas,c,js,html,css,react,django,docker,git,mysql,sqlite,blender&theme=dark" alt="My Skills" />
+  </a>
+</p>
+
+### 📊 Stats & Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaushik-pasumarthi&show_icons=true&theme=radical&hide_border=true&layout=compact" alt="GitHub Stats" width="48%"/>
+  <img src="https://leetcard.jacoblin.cool/kaushik-pasumarthi?theme=radical&font=Inter&ext=activity" alt="LeetCode Stats" width="48%"/>
+</p>
